@@ -9,6 +9,7 @@ A pasta `learning/` contém subpastas com conteúdos específicos, por exemplo:
 - `numpy-learning/`: estudos e exercícios com NumPy
 - `pandas-learning/`: manipulação de dados com Pandas
 - `ml-learning/`: conceitos e aplicações com Scikit-learn
+- `python-learning`: exercicios práticos de Python
 
 Cada pasta possui notebooks com:
 - Testes e códigos experimentais
